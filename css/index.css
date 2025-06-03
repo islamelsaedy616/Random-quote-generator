@@ -1,0 +1,21 @@
+.fs-80 {
+  font-size: 5rem;
+}
+.fs-80 {
+  font-size: 5rem;
+}
+.btn-cus {
+  width: 250px;
+  height: 70px;
+  background-color: rgb(109, 109, 109);
+  border-radius: 50px;
+  border: none;
+  color: #000;
+  font-size: 20px;
+  transition: 0.3s;
+}
+
+.btn-cus:hover {
+  background-color: rgb(45, 45, 45);
+  color: #fff;
+}
