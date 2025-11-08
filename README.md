@@ -33,4 +33,4 @@ It features **dynamic DOM updates**, a stylish **button design**, and **responsi
 
 ## 🌐 Live Demo
 
-👉 [**View Live Version**](https://yourusername.github.io/quote-of-the-day)
+👉 [**View Live Version**](https://islamelsaedy616.github.io/Random-quote-generator/)
