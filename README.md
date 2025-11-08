@@ -31,6 +31,7 @@ It features **dynamic DOM updates**, a stylish **button design**, and **responsi
 
 ---
 
-## 🌐 Live Demo
+- ## 🌐 Live Demo
 
-👉 [**View Live Version**](https://islamelsaedy616.github.io/Random-quote-generator/)
+Check out the live version of this project here:  
+👉 [**Live Demo**](https://islamelsaedy616.github.io/Random-quote-generator/)
